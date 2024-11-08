@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "date": "June 1, 2023",
+    "title": "Как ухаживать за розами",
+    "text": "Уход за roses может быть сложен...",
+    "img": "https://loremflickr.com/320/240/roses",
+    "tag": "breakdance"
+  },
+  {
+    "id": 2,
+    "date": "July 15, 2023",
+    "title": "Как настроить свой компьютер для игр",
+    "text": "Чтобы получить максимальную производительность...",
+    "img": "https://loremflickr.com/320/240/gaming",
+    "tag": "programming"
+  },
+  {
+    "id": 3,
+    "date": "August 30, 2023",
+    "title": "Лучшие практики безопасности на дороге",
+    "text": "Дор affairs могут быть опасны...",
+    "img": "https://loremflickr.com/320/240/road",
+    "tag": "breakdance"
+  },
+  {
+    "id": 4,
+    "date": "October 12, 2023",
+    "title": "Как начать заниматься йогой",
+    "text": "Йога — отличный способ улучшить здоровье...",
+    "img": "https://loremflickr.com/320/240/yoga",
+    "tag": "programming"
+  },
+  {
+    "id": 5,
+    "date": "November 26, 2023",
+    "title": "Как сделать домашние печенья",
+    "text": "Ничто не сравнится с запахом свежего печенья...",
+    "img": "https://loremflickr.com/320/240/cookies",
+    "tag": "breakdance"
+  },
+  {
+    "id": 6,
+    "date": "December 10, 2023",
+    "title": "Как улучшить свою финансовую грамотность",
+    "text": "Финансовая грамотность необходима для управления...",
+    "img": "https://loremflickr.com/320/240/money",
+    "tag": "programming"
+  },
+  {
+    "id": 7,
+    "date": "January 22, 2024",
+    "title": "Как писать более убедительно",
+    "text": "Написание убедительных текстов может помочь...",
+    "img": "https://loremflickr.com/320/240/writing",
+    "tag": "breakdance"
+  },
+  {
+    "id": 8,
+    "date": "February 5, 2024",
+    "title": "Как ухаживать за кожей зимой",
+    "text": "Зимняя погода может негативно сказаться на коже...",
+    "img": "https://loremflickr.com/320/240/winter",
+    "tag": "programming"
+  },
+  {
+    "id": 9,
+    "date": "March 20, 2024",
+    "title": "Как улучшить память",
+    "text": "Хорошая память важна для обучения...",
+    "img": "https://loremflickr.com/320/240/memory",
+    "tag": "breakdance"
+  },
+  {
+    "id": 10,
+    "date": "April 3, 2024",
+    "title": "Как начать медитировать",
+    "text": "Медитация — мощный инструмент для снятия стресса...",
+    "img": "https://loremflickr.com/320/240/meditate",
+    "tag": "programming"
+  },
+  {
+    "id": 11,
+    "date": "February 2, 2024",
+    "title": "Откройте дверь в мир авангардного искусства",
+    "text": "Наш новый музей предлагает уникальную коллекцию произведений искусства, которая заставит вас пересмотреть ваше представление об искусстве!",
+    "img": "https://loremflickr.com/320/240/art",
+    "tag": "breakdance"
+  },
+  {
+    "id": 12,
+    "date": "August 15, 2023",
+    "title": "Изучите историю через объектив",
+    "text": "Наш фотопроект посвящен истории нашего региона. Мы приглашаем вас принять участие в этом увлекательном путешествии и увидеть мир глазами наших предков.",
+    "img": "https://loremflickr.com/320/240/history",
+    "tag": "programming"
+  },
+  {
+    "id": 13,
+    "date": "November 27, 2023",
+    "title": "Станьте частью нашей общины",
+    "text": "Мы строим онлайн-сообщество людей, которые хотят делиться знаниями и опытом. Присоединитесь к нам сегодня и найдите новых друзей и партнеров по всему миру.",
+    "img": "https://loremflickr.com/320/240/community",
+    "tag": "breakdance"
+  },
+  {
+    "id": 14,
+    "date": "October 10, 2023",
+    "title": "Покорите вершину вместе с нами",
+    "text": "Наш новый альпинистский клуб предлагает organized trips на самые известные вершины мира. Присоединяйтесь к нам и исследуйте прекрасное планеты.",
+    "img": "https://loremflickr.com/320/240/mountains",
+    "tag": "programming"
+  },
+  {
+    "id": 15,
+    "date": "July 4, 2024",
+    "title": "Наслаждайтесь звуками музыки",
+    "text": "Мы организовали фестиваль классической музыки, где вы можете услышать величайшие композиции всех времен. Приходите и наслаждайтесь музыкой в уютной атмосфере.",
+    "img": "https://loremflickr.com/320/240/music",
+    "tag": "breakdance"
+  },
+  {
+    "id": 16,
+    "date": "May 22, 2024",
+    "title": "Укрепите свои отношения",
+    "text": "Мы предлагаем пару counseling и coaching sessions для тех, кто хочет улучшить свои отношения. Работайте с нашими экспертами и начните новую жизнь сегодня.",
+    "img": "https://loremflickr.com/320/240/couple",
+    "tag": "programming"
+  },
+  {
+    "id": 17,
+    "date": "March 18, 2024",
+    "title": "Начните новую страницу в вашей жизни",
+    "text": "Если вы15: 19чувствуете, что застряли на одном месте, мы можем помочь вам начать новую жизнь. Our life coaches будут рады помочь вам найти свой путь и добиться успеха.",
+    "img": "https: //loremflickr.com/320/240/newbeginning",
+    "tag": "breakdance"
+  },
+  {
+    "id": 18,
+    "date": "January 29, 2024",
+    "title": "Учитесь рисовать как профессионал",
+    "text": "Наш art school предлагает курсы для начинающих и опытных художников. Улучшите свои навыки and create stunning works of art под руководством наших преподавателей.",
+    "img": "https://loremflickr.com/320/240/painting",
+    "tag": "programming"
+  },
+  {
+    "id": 19,
+    "date": "September 30, 2023",
+    "title": "Начните собственный бизнес сегодня же",
+    "text": "Мы поможем вам реализовать вашу мечту и начать собственный бизнес. Получите доступ to exclusive resources and expert advice from our team of entrepreneurs.",
+    "img": "https://loremflickr.com/320/240/business",
+    "tag": "breakdance"
+  },
+  {
+    "id": 20,
+    "date": "November 6, 2023",
+    "title": "Наслаждайтесь видом из окна вашей мечты",
+    "text": "Мы предлагаем широкий выбор недвижимости в самых престижных районах города. Выберите свой новый дом и начните новую жизнь сегодня.",
+    "img": "https://loremflickr.com/320/240/realestate",
+    "tag": "programming"
+  },
+  {
+    "id": 20,
+    "date": "May 15, 2023",
+    "title": "Как создать сад баланса",
+    "text": "A balance garden is a beautiful addition to any outdoor space, providing a place to relax and unwind. In this article, we will provide step-by-step instructions for creating your own balance garden.",
+    "img": "https://loremflickr.com/320/240/balancegarden",
+    "tag": "breakdance"
+  },
+  {
+    "id": 21,
+    "date": "June 1, 2023",
+    "title": "Как выбрать лучший теннисный рекет",
+    "text": "Choosing the right tennis racket can significantly impact your game. In this article, we will provide guidelines for selecting the perfect racket for your playing style and skill level.",
+    "img": "https://loremflickr.com/320/240/tennis",
+    "tag": "programming"
+  },
+  {
+    "id": 22,
+    "date": "June 15, 2023",
+    "title": "Как начать кодировать",
+    "text": "Coding is an increasingly valuable skill in today's digital world. Whether you're interested in web development or data analysis, coding can open up many career opportunities. In this article, we will provide a beginner's guide to getting started with coding.",
+    "img": "https://loremflickr.com/320/240/code",
+    "tag": "breakdance"
+  },
+  {
+    "id": 23,
+    "date": "July 1, 2023",
+    "title": "Как улучшить свою форму для бега",
+    "text": "Running is a popular form of exercise, but it can also be hard on your body if you're not properly trained. In this article, we will provide tips for improving your running form and preventing injuries.",
+    "img": "https://loremflickr.com/320/240/runform",
+    "tag": "programming"
+  },
+  {
+    "id": 24,
+    "date": "July 15, 2023",
+    "title": "Как начать играть на гитаре",
+    "text": "Playing the guitar is a rewarding hobby that can bring joy to both the player and their audience. In this article, we will provide a beginner's guide to getting started with playing the guitar.",
+    "img": "https://loremflickr.com/320/240/guitar",
+    "tag": "breakdance"
+  },
+  {
+    "id": 25,
+    "date": "August 1, 2023",
+    "title": "Как улучшить свою скорость чтения",
+    "text": "Improving your reading speed can have numerous benefits, including increased productivity and better comprehension. In this article, we will provide tips for boosting your reading speed while maintaining understanding.",
+    "img": "https://loremflickr.com/320/240/readingspeed",
+    "tag": "programming"
+  },
+  {
+    "id": 26,
+    "date": "August 15, 2023",
+    "title": "Как начать заниматься пилоatem",
+    "text": "Piloates is a low-impact workout that focuses on strengthening your core muscles. In this article, we will provide a beginner's guide to getting started with pilates, including recommended exercises and equipment.",
+    "img": "https://loremflickr.com/320/240/piolates",
+    "tag": "breakdance"
+  },
+  {
+    "id": 27,
+    "date": "September 1, 2023",
+    "title": "Как начать веганскую diety",
+    "text": "Going vegan can have numerous health and environmental benefits, but it can also be challenging to navigate at first. In this article, we will provide a beginners guide15: 19to transitioning to a vegan diet.",
+    "img": "https://loremflickr.com/320/240/vegan",
+    "tag": "programming"
+  },
+  {
+    "id": 28,
+    "date": "September 15, 2023",
+    "title": "Как начать заниматься йогой",
+    "text": "Yoga is a popular form of exercise that combines movement, breathwork, and meditation. In this article, we will provide a beginner's guide to getting started with yoga, including recommended poses and breathing techniques.",
+    "img": "https://loremflickr.com/320/240/yoga",
+    "tag": "breakdance"
+  },
+  {
+    "id": 29,
+    "date": "October 1, 2023",
+    "title": "Как улучшить свою фотографическую память",
+    "text": "Photographic memory refers to the ability to recall images with high accuracy and detail. While few people possess true photographic memory, there are strategies.",
+    "img": "https://loremflickr.com/320/240/photographymemory",
+    "tag": "programming"
+  },
+  {
+    "id": 30,
+    "date": "October 15, 2023",
+    "title": "Как улучшить свою эмоциональную intelligence",
+    "text": "Emotional intelligence refers to the ability to recognize and manage one's emotions and those of others. Improving emotional intelligence can lead.",
+    "img": "https://loremflickr.com/320/240/emotionalintelligence",
+    "tag": "breakdance"
+  }
+]
