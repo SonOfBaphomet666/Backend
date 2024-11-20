@@ -47,7 +47,6 @@ app.get('/api/article/:id', (req, res) => {
   }
 });
 // 
-
 // const articlesPath = path.join(__dirname, 'articles.json');
 // let articlesData = JSON.parse(fs.readFileSync(articlesPath, 'utf8'));
 // ARTICLES. USES A DATA BASE.
