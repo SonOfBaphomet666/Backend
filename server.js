@@ -34,7 +34,6 @@ async function start() {
 };
 start();
 
-
 // DETAIL ARTICLES. DON'T USE THE DATA BASE.
 app.get('/api/article/:id', (req, res) => {
   const articleId = req.params.id;
@@ -51,7 +50,6 @@ app.get('/api/article/:id', (req, res) => {
 
 // const articlesPath = path.join(__dirname, 'articles.json');
 // let articlesData = JSON.parse(fs.readFileSync(articlesPath, 'utf8'));
-
 // ARTICLES. USES A DATA BASE.
 app.get('/api/articles', async (req, res) => {
   try {
