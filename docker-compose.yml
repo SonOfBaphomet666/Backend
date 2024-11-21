@@ -11,10 +11,15 @@ services:
       MONGO_INITDB_DATABASE: db
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
-
+      ME_CONFIG_MONGODB_SERVER: mongo
+    volumes:
+     - ./init.js:/docker-entrypoint-initdb.d/init.js
+      
   mongo-express:
     image: mongo-express
     restart: always
+    depends_on:
+      - mongo
     env_file:
       - .env
     networks:
@@ -24,7 +29,7 @@ services:
     environment:
       ME_CONFIG_MONGODB_ADMINUSERNAME: root
       ME_CONFIG_MONGODB_ADMINPASSWORD: example
-      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/db
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongodb:27017/admin
      
 networks:
   my-net:

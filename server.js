@@ -7,13 +7,12 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 const MONGO_URI = process.env.MONGO_URI;
-const { MongoClient } = require("mongodb");
+const { MongoClient } = require('mongodb');
 const client = new MongoClient(MONGO_URI);
-const dataBase = "db";
+const dataBase = 'db';
 const articlesDb = "articles";
 const detailArticle = "detailArticles";
 // const { log } = require('console');
-
 
 
 app.use(cors({
@@ -21,7 +20,6 @@ app.use(cors({
 }));
 
 async function start() {
-
   try {
     console.log("Connecting to:", process.env.MONGO_URI);
     await mongoose.connect(MONGO_URI);
